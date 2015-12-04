@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_names">
+        <item>@string/spotify_app</item>
+        <item>@string/scores_app</item>
+        <item>@string/library_app</item>
+        <item>@string/build_it_bigger</item>
+        <item>@string/xyz_reader</item>
+        <item>@string/capstone_app</item>
+    </string-array>
+</resources>
